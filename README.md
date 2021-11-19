@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 - 
 -->
-[![Linkedin Badge](https://img.shields.io/badge/-Anel-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anelmusic/) [![Mail Badge](https://img.shields.io/badge/-Anel LinkedIn-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anelmusic@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Anel-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anelmusic/) [![Mail Badge](https://img.shields.io/badge/-Anel-LinkedIn-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anelmusic@gmail.com)
 
 - 🔭 The world is full of uncertainties - let's try to model it
 - 😄 I'm interested im clean code and data science/machine learning
