@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I also try to share what I've learned along the way: https://anelmusic13.medium.com/
 - 📫 How to reach me: anelmusic13@gmail.com
 - ⚡ Fun fact: I'm not allowed to use my mechanical keyboard because my wife says it's too loud
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
